@@ -1,2 +1,4 @@
-Print ("Hello Word!")
-Print ("Hello my frend!")
+
+Print ("Hello Word!;")
+Print ("Hello my frend!;")
+
